@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7838176350e9cd8479cf484d83ba7a90, type: 3}
+  m_Name: 3
+  m_EditorClassIdentifier: Assembly-CSharp::StoryEvents.EventNodeSO
+  artwork: {fileID: -2370806185775156980, guid: 0c51af057a07ac34799d4cdc06ff841a, type: 3}
+  title: Bell Rings at 3:11 Tomorrow
+  bodyText: 'Ding.
+
+    This time, Room 217 calls the front desk.
+
+
+    You answer.
+
+
+    Static
+    crackles for a moment before a woman calmly says:
+
+
+    "Could you send up fresh
+    towels?"
+
+
+    There is no registered guest in Room 217.'
+  choices:
+  - {fileID: 11400000, guid: 2ba4552f29c385843b9b61417f68be65, type: 2}
+  - {fileID: 11400000, guid: 1c04175341824d846b400d5451dd4a63, type: 2}
+  - {fileID: 11400000, guid: e21ac75e8647fed41b244eb0c5ca4f74, type: 2}
+  continueNode: {fileID: 0}
+  isEndNode: 0
+  outcome: {fileID: 0}

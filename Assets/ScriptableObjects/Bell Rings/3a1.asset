@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7838176350e9cd8479cf484d83ba7a90, type: 3}
+  m_Name: 3a1
+  m_EditorClassIdentifier: Assembly-CSharp::StoryEvents.EventNodeSO
+  artwork: {fileID: 6087665116927511718, guid: 7d7e5ddfeb25ca442a97baa915ba7cd9, type: 3}
+  title: You follow the room
+  bodyText: 'Room 217 sits at the end of the outdoor hallway where the lights always
+    flicker.
+
+
+    The door is already open.
+
+
+    Inside, the room smells like wet
+    carpet and lake water. A television glows with silent black-and-white weather
+    reports.'
+  choices: []
+  continueNode: {fileID: 11400000, guid: c4ab225d2141344438599c32fe0c2488, type: 2}
+  isEndNode: 0
+  outcome: {fileID: 0}

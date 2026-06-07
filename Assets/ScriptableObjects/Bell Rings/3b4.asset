@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7838176350e9cd8479cf484d83ba7a90, type: 3}
+  m_Name: 3b4
+  m_EditorClassIdentifier: Assembly-CSharp::StoryEvents.EventNodeSO
+  artwork: {fileID: -868703151904824578, guid: 96a1973ca76d1d94a855636b1f43fc4c, type: 3}
+  title: Trace where the call came from
+  bodyText: "A voicemail begins playing.\n\nIt\u2019s your voice.\n\nPanicked.\n\n\"If
+    you hear this, don\u2019t let them put anyone in 217. Especially not\u2014\"\n\nThe
+    message cuts off with a scream."
+  choices:
+  - {fileID: 11400000, guid: 9b87736a1f25d124f8bdbc3eb0135b30, type: 2}
+  - {fileID: 11400000, guid: 17e190ddadbada042aff80b3375e64f5, type: 2}
+  - {fileID: 11400000, guid: cc8c79f7946a41a418cc03707a531365, type: 2}
+  continueNode: {fileID: 0}
+  isEndNode: 0
+  outcome: {fileID: 0}

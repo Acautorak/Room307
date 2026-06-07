@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7838176350e9cd8479cf484d83ba7a90, type: 3}
+  m_Name: 3c2
+  m_EditorClassIdentifier: Assembly-CSharp::StoryEvents.EventNodeSO
+  artwork: {fileID: -3962565279067047163, guid: 5859512cd106ff743bdd93ec6f6d7831, type: 3}
+  title: Wait for ring next day
+  bodyText: 'A woman steps out of the back seat.
+
+
+    She wears a diner uniform
+    and carries no luggage.
+
+
+    She walks toward the lobby doors but never seems
+    to get closer.'
+  choices: []
+  continueNode: {fileID: 11400000, guid: e3dcb331c7d67f2448e056915aaea1d9, type: 2}
+  isEndNode: 0
+  outcome: {fileID: 0}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7838176350e9cd8479cf484d83ba7a90, type: 3}
+  m_Name: Node 2
+  m_EditorClassIdentifier: Assembly-CSharp::StoryEvents.EventNodeSO
+  artwork: {fileID: 760593519096220354, guid: b489513de50d7a345ba9bf8a786dc197, type: 3}
+  title: Thermostat log
+  bodyText: 'When you check the office thermostat logs, Room 117 appears normal.
+
+
+    The
+    maintenance log shows something odd: the heater in that room was replaced only
+    three months ago.'
+  choices:
+  - {fileID: 11400000, guid: 2d10f6b24390f504fb7b795eaae7b8cd, type: 2}
+  - {fileID: 11400000, guid: 8f059046a046df24c997157df48b2323, type: 2}
+  - {fileID: 11400000, guid: 94c2a839371263b4f9a6ca2d93a8a372, type: 2}
+  continueNode: {fileID: 0}
+  isEndNode: 0
+  outcome: {fileID: 0}

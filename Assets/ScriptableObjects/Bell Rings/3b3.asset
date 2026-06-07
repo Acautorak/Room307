@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7838176350e9cd8479cf484d83ba7a90, type: 3}
+  m_Name: 3b3
+  m_EditorClassIdentifier: Assembly-CSharp::StoryEvents.EventNodeSO
+  artwork: {fileID: -6517060400778287364, guid: 8bc911ff16d1b0942b67e28f52675c31, type: 3}
+  title: Trace where the call came from
+  bodyText: 'Following the wire leads you beneath the motel into a maintenance crawlspace.
+
+
+    You
+    find an unplugged rotary phone ringing in complete darkness.
+
+
+    It stops the
+    moment you pick it up.'
+  choices: []
+  continueNode: {fileID: 11400000, guid: b68cd571a016e794ba4d99d6b49a34bf, type: 2}
+  isEndNode: 0
+  outcome: {fileID: 0}
