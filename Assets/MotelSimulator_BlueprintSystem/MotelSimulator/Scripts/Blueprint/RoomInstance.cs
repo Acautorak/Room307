@@ -56,4 +56,6 @@ namespace MotelSimulator.Blueprint
 
         private void OnClicked() => _manager?.OnRoomClicked(this);
     }
+
+   
 }

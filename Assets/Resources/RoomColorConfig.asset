@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: RoomColorConfig
+  m_EditorClassIdentifier: Assembly-CSharp:MotelSimulator.Data:RoomColorConfigSO
+  roomColors:
+  - roomType: 0
+    color: {r: 0.7, g: 0.7, b: 0.7, a: 0.5}
+    displayName: Unassigned
+  - roomType: 1
+    color: {r: 0.4, g: 0.6, b: 1, a: 0.7}
+    displayName: Bedroom
+  - roomType: 2
+    color: {r: 0.3, g: 0.9, b: 0.8, a: 0.7}
+    displayName: Bathroom
+  - roomType: 3
+    color: {r: 1, g: 0.7, b: 0.3, a: 0.7}
+    displayName: Kitchen
+  - roomType: 4
+    color: {r: 0.5, g: 0.9, b: 0.4, a: 0.7}
+    displayName: Living Room
+  - roomType: 5
+    color: {r: 0.7, g: 0.5, b: 0.3, a: 0.7}
+    displayName: Storage
+  - roomType: 6
+    color: {r: 0.9, g: 0.9, b: 0.4, a: 0.7}
+    displayName: Hallway
+  - roomType: 7
+    color: {r: 0.7, g: 0.4, b: 0.9, a: 0.7}
+    displayName: Office
+  - roomType: 8
+    color: {r: 0.4, g: 0.8, b: 0.5, a: 0.7}
+    displayName: Balcony

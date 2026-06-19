@@ -94,6 +94,9 @@ namespace MotelSimulator.Blueprint
             addRoomButton.interactable = false;
         }
 
+        
+
+
         private void OnDrawingComplete(RectInt gridRect)
         {
             gridDrawTool.SetActive(false);

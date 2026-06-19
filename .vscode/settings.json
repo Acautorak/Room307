@@ -67,6 +67,6 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "Room3071.slnx",
+    "dotnet.defaultSolution": "Room307.slnx",
     "dotnet.enableWorkspaceBasedDevelopment": false
 }
